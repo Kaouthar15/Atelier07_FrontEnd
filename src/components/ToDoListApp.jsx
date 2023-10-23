@@ -7,7 +7,7 @@ import {MdPublishedWithChanges} from 'react-icons/md';
 import Swal from 'sweetalert2';
 // npm i sweetalert2  
 import "../App.css"
-export default function ToDoListApp2() {
+export default function ToDoListApp() {
     const iconStyle = {fontSize:'25Px',color:'white'};
     const iconStyle1 = {fontSize:'25Px',color:'white',cursor:'pointer'};
     const iconStyle2 = {fontSize:'50px'};
